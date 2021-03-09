@@ -1,3 +1,4 @@
 first line 
 modified second line
 modified third line
+today is lecture of mobile computing
